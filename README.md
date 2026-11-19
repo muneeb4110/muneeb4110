@@ -8,14 +8,12 @@ I am focused on building practical skills and working with modern DevOps tools t
 
 ### 🚀 Technical Skills
 
-- **Cloud:** Huawei Cloud, ECS, VPC
-- **DevOps:** Jenkins, GitHub Actions, CI/CD
-- **Containers:** Docker, Kubernetes
-- **Infrastructure as Code:** Terraform
-- **Operating Systems:** Linux, Windows
-- **Programming & Scripting:** Python, Bash
-- **Version Control:** Git, GitHub
-- **Networking:** TCP/IP, DNS, Networking Fundamentals
+- ####Cloud Platforms:#### Huawei Cloud, Elastic Cloud Server (ECS), Virtual Private Cloud (VPC)
+- CI/CD and Automation: CI/CD Pipelines, Jenkins, GitHub Actions
+- Containers and Orchestration: Docker, Kubernetes
+- Infrastructure as Code: Terraform
+- Operating Systems and Networking: Linux, Linux Server Administration, Networking
+- Programming and Version Control: Python, Bash, Git, GitHub
 
 ### ☁️ Cloud & DevOps Interests
 
